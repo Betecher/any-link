@@ -16,3 +16,5 @@ https://github.com/jgraph/mxgraph
 
 * http://brm.io/matter-js/ Matter.js is a 2D physics engine for the web
 * https://playcanvas.com/ Browser games are no longer limited to 2D. Use PlayCanvas to create 3D HTML5 and WebGL games that will amaze.
+* https://github.com/hiloteam/Hilo A Cross-end HTML5 Game development solution developed by Alibaba Group
+* http://layabox.com/
